@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Christian
 ==========================
 
-Data scientist / Data Engineer 
+Data scientist 
 ------------------------------
 
 * 🌍  I'm based in Niterói - RJ, BR
