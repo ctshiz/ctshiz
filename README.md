@@ -22,8 +22,8 @@ Data scientist / Data Engineer
 
 * 🌍  I'm based in Niterói - RJ, BR
 * ✉️  You can contact me at [ctshizubu@gmail.com](mailto:ctshizubu@gmail.com)
-* 🧠  I'm learning Process control with Neural Network
-* 🤝  I'm open to collaborating on NLP, Forecasting, Data orchestration, Process Automation, Neural Network
+* 🔭 I’m currently working on Economic factors in infatn mortality
+* 🤝  I'm open to collaborating on Forecasting
 
 ### Skills
 
