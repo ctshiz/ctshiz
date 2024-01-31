@@ -22,7 +22,7 @@ Data scientist / Data Engineer
 
 * 🌍  I'm based in Niterói - RJ, BR
 * ✉️  You can contact me at [ctshizubu@gmail.com](mailto:ctshizubu@gmail.com)
-* 🔭 I’m currently working on Economic factors in infatn mortality
+* 🔭 I’m currently working on Economic factors in infant mortality
 * 🤝  I'm open to collaborating on Forecasting
 
 ### Skills
